@@ -1,0 +1,10 @@
+* {
+    background-color: yellowgreen;
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.btn {
+    color: yellow;
+    background-color: red;
+}
